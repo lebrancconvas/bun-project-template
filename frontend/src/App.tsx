@@ -1,6 +1,9 @@
 import { CONFIG } from "@/config";
 import "@/styles/index.css";
 
+/**
+ * for the config value, You can modify it on src/config/index.ts .
+ */
 export function App() {
   return (
     <>
